@@ -12,9 +12,8 @@
 </p>
 
 ## What is the Q Learning?
-<p>
   Q-Learning is a Reinforcement learning policy that will find the next best action, given a current state. It chooses this action at random and aims to maximize the reward. If You want more information about q learning [please click here.](https://www.simplilearn.com/tutorials/machine-learning-tutorial/what-is-q-learning#what_is_qlearning)
-</p>
+
 
 ## Tools Used
 
